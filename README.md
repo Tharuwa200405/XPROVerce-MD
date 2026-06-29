@@ -5,7 +5,7 @@
 # 👑 XPROVerce MD
 ### Advanced WhatsApp Multi-Device Bot
 
-[🌐 Home](http://xpro-verce.vercel.app/) •
+[🌐 Home](http://xpro-verce.site/) •
 [💻 GitHub](https://github.com/xproverce/XPROVerce-MD)
 
 </div>
