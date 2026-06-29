@@ -1,6 +1,6 @@
 {
   "name": "xproverce-md",
-  "version": "5.0.0",
+  "version": "5.0.1",
   "description": "A Simple WhatsApp bot created By King-Rashmika",
   "main": "start.js",
   "scripts": {
